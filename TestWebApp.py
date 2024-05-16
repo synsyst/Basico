@@ -7,4 +7,3 @@ st.write(f"you picked as your {number}")
 
 apikey = st.secrets["myAPIKey"]
 st.write(f"also the api key is {apikey}, though it's fake and it just tests the secrets functionality of streamlit")
-
