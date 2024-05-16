@@ -42,7 +42,7 @@ def calculate_time_difference(init_datetime):
     return time_difference_hours
 
 def get_matching_weather_data(weather_data, time_difference_hours):
-    timepoint_mod_3 = time_difference_hours % 3
+    timepoint_mod_3 = time_difference_hours-(time_difference_hours % 3)
     for data_point in weather_data['dataseries']:
         if data_point['timepoint'] == timepoint_mod_3:
             # Extract relevant data into a tuple
