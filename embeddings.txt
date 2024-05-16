@@ -1,0 +1,532 @@
+    Services offered: CFO Services, Legal Services, Finance IT Services, People & Payroll Services.
+    Offerings include consultancy, interim solutions, and project assistance.
+    Expertise areas: rolling forecasts, financial management, digitalization, recruitment.
+    Blog topics: rolling forecasts, office space challenges, budget planning.
+    Contact information: address, phone number, email.
+    Address: Philip Heymans Allé 3, 5, DK-2900 Hellerup.
+    Company registration number (CVR): 35852190.
+    Company slogan: "Beyond Business Support."
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Services offered: CFO Services, Finance IT Services, Legal Services, People & Payroll Services.
+    Expertise areas: CFO services, consultancy, interim services, digitalization, recruitment.
+    Contact information: address, phone number, email.
+    Company registration number (CVR): 35852190.
+    Offerings include CFO consultancy, interim assistance, digitalization, recruitment, and transformation services.
+    CFO services cover optimization, digitalization, management information, reporting, and business intelligence.
+    Offerings include ESG reporting services, transformation services, finance compliance, and development and consultancy in finance.
+    Newsletter subscription option for professional inspiration.
+    Managing Partner: Jacob Poulsen, contact information provided.
+    Company slogan: "Beyond Business Support."
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: ESG Reporting Services.
+    Offerings include assistance with 'double materiality assessment', design, establishment, and embedding of the entire ESG reporting process.
+    Offerings include interim capacity support for ESG reporting teams.
+    Description of ESG reporting importance and upcoming changes driven by EU law.
+    Offerings include assistance with CSRD provisions and transformation of sustainability work into operational ESG reporting and processes.
+    Offerings include practical and operational approach to ESG reporting, focusing on annual wheel, roles and responsibilities, ESG accounting manual, controls, and internal process descriptions.
+    Offerings include interim support for extraordinary resource needs in ESG reporting teams.
+    Partner: Morten Virenfeldt Nielsen, contact information provided.
+    Company registration number (CVR): 35852190.
+    Contact information: address, phone number, email.
+    Company slogan: "Beyond Business Support."
+	
+    Copyright notice: ©2024 Basico, All rights reserved.
+	Service offered: Finance Compliance & Controlling.
+    Offerings include assistance with finance compliance, internal controls, accounting interpretation, registration of transactions, accounting manual, accounting estimates, and new accounting requirements.
+    Offerings include assistance with corporate tax, VAT, and dues.
+    Offerings include interim capacity support for finance compliance teams.
+    Offerings include assistance with corporate tax in the annual report according to financial statements act and IFRS.
+    Offerings include assistance with designing and implementing business procedures and internal controls.
+    Offerings include assistance with interpreting regulations, managing conversion projects, and designing business procedures.
+    Offerings include assistance with designing effective internal controls tailored to business risks.
+    Offerings include assistance with quantifying and assessing risks, designing controls, and implementing controls effectively.
+    Partner: Mikkel Harloff-Helleberg, contact information provided.
+    Company registration number (CVR): 35852190.
+    Contact information: address, phone number, email.
+	
+    Copyright notice: ©2024 Basico, All rights reserved.
+	Service offered: Transformation Services.
+    Offerings include assistance with organizational changes and optimizations in Finance.
+    Utilizes the Basico Change Model as a framework tool for consultancy.
+    Can assist with financial strategies, finance operating model optimizations, restructurings, acquisitions, and divestments.
+    Helps implement new finance operating models and develop financial strategies.
+    Assists with process optimization, automation, and transformation in connection with M&A and IPO readiness projects.
+    Partner: Maj Uggerhøj, contact information provided.
+    Basico Change Model characteristics: dynamic process, strong Case for Change, change embedded in the organization.
+    Emphasizes employee involvement and collaboration in the change process.
+    Provides tangible, pragmatic, and forward-looking Finance strategic roadmaps.
+    Examples of successful projects with Danica Pension and Topsoe provided.
+    Company registration number (CVR): 35852190.
+    Contact information: address, phone number, email.
+	
+    Copyright notice: ©2024 Basico, All rights reserved.
+	Service offered: Finance Business Partnering.
+    Focus on increasing the value of Finance by developing it into a finance business partnering role.
+    Services include defining the concept, developing roadmaps, identifying specific cases, and providing training and follow-up.
+    Barriers to finance business partnering include lack of clear definition, plan, interest, and priority.
+    Finance business partnering helps establish close relations with business units and stakeholders, providing valuable financial insight and advice.
+    CFO transitions from a number cruncher to a more strategic business partner.
+    Senior Partner: Henrik Dahlgaard, contact information provided.
+    Case study: Jeudan transformation project.
+    Service offered: Financial Compliance & Controlling.
+    Assistance provided in areas related to finance compliance and controlling, including bookkeeping quality assurance, compliance with reporting requirements, risk assessments, and internal controls.
+    Company registration number (CVR): 35852190.
+    Contact information: address, phone number, email.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Finance IT Services.
+    Focus on increasing the value of the intersection between Finance and IT through optimization, adjustment, and better use of IT systems.
+    Assistance provided in digitalization and automation of finance processes.
+    Emphasis on systematizing financial planning using cloud-based tools for data-driven insights.
+    Importance of laying a foundation for a successful ERP project by integrating business processes and organizational tasks.
+    Collaboration between Finance and IT specialists to address business challenges and unlock potential.
+    Offering consultancy and assistance for ERP upgrades or implementation, process automation, financial planning, BI, and more.
+    Contact information for Morten Boldsen, Partner, provided.
+    Services offered include consultancy, interim staffing, digitalization, and recruitment.
+    Contact information for general inquiries provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: BI solutions.
+    Importance of using data effectively in business.
+    Advantages of a BI solution: quick data updates, transparent models, increased confidence in reporting, and interactivity for exploring data.
+    The role of Basico in providing BI solutions.
+    Introduction to the Basico BI Framework for implementing BI solutions.
+    Six phases of the Basico BI Framework: Database architecture, Data validation, Data modelling, Data visualisation and reporting, Data analysis, and Manage BI.
+    Four overall roles in the BI framework: Builder, Validator, Designer, and Analyst.
+    Tailoring BI solutions to fit specific business needs and preferences.
+    Mention of cloud-based solutions like Microsoft Azure and visualization tools like Power BI or Tableau.
+    Emphasis on automating reporting and optimizing data processes.
+    Offer of end-to-end solutions or maintenance for existing solutions.
+    Competences offered by Finance IT Services for digitalizing financial processes.
+    Contact information for Basico provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: ERP consultancy.
+    Importance of thorough preparation for ERP projects to ensure desired results.
+    Components of a successful ERP project: Processes, Data, Technology, and Organization.
+    Role of Basico in providing ERP consultancy and ensuring progress and structure in ERP projects.
+    Involvement of Basico's ERP consultants in creating ERP frameworks or managing entire projects.
+    Importance of managing deliverables, resources, and communication in ERP projects.
+    Challenges in ERP projects and the need for bridge-building between various stakeholders.
+    Offer of tailored solutions to fit specific business needs.
+    References to related blog posts and mail series on ERP implementation and process optimization.
+    Competences offered by Finance IT Services for digitalizing financial processes.
+    Contact information for Basico provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Legal Services.
+    Approach: Combining legal advice, internal resources, and external specialist knowledge.
+    Emphasis on providing hands-on legal assistance.
+    Legal counsels with experience from both in-house legal positions and external legal practice.
+    Provision of legal support, extra resources, and knowledge for daily operations and internal projects.
+    Integration into the client's team for thorough understanding of the organization.
+    Assistance with compliance, internal law, recruitment, and alternative dispute resolution.
+    Experience in contract preparation, review, negotiation, and legal consultancy for management and business.
+    Assistance in projects like IPO, M&A, and financing, as well as recruitment of legal counsels.
+    Individual portraits highlighting expertise and experience of team members.
+    Contact information for Trine Damsgaard Vissing, Partner.
+    Offer of legal consultancy, interim services, digitalization, and recruitment in Legal Services.
+    Contact information for Basico provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Real estate & construction legal services.
+    Legal assistance provided for project development, contract work, construction, property letting, optimization, and transactions.
+    Challenges in construction and real estate include legal aspects, negotiations, contracts, and compliance.
+    Basico offers flexible legal assistance in-house for daily operations, peak loads, and projects.
+    Services include assistance with project agreements, authority processes, planning, financing, tenancy agreements, and asset management.
+    Expertise in handling major contracts, conflict resolution, claims management, and legal wrangling.
+    Emphasis on being proactive sparring partners and making legal issues understandable and operational.
+    Legal consultants have over ten years of experience from reputed law firms and in-house positions.
+    Focus on value creation and understanding the company's business objectives.
+    Contact information for Lisbeth Bau-Madsen, Senior Partner.
+    Offer of blog content for further information.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: People & Payroll Services.
+    Aim to create synergy between employees, technology, and processes.
+    Services include HR operations establishment, process/system implementation, compliance, and operational support.
+    Focus on efficiency, compliance, smooth operations, and business servicing.
+    Offer of sparring and recruitment assistance for CFOs and other key positions.
+    Offer of Change Management, Coaching, Executive Search & Recruitment services.
+    Assistance with technology optimization, change management, payroll administration, and operational tasks.
+    Provision of interim consultants for heavy workloads, resignations, parental leave, or sickness.
+    Consultancy on HR focus areas like management training, technology usage, process optimization, and well-being initiatives.
+    Digitalization assistance for HR processes.
+    Recruitment services for skilled candidates in Finance, Legal, and HR.
+    Contact information for Henrik Schøtt Kjærgaard, Partner.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: People & Payroll Services.
+    Focus on operational aspects of Human Resource Management (HRM) and payroll.
+    Assistance provided for implementation and operation of operational tasks and processes.
+    Emphasis on efficiency, compliance, smooth operation, and competence level.
+    Services include improving in-house payroll functions, outsourcing decisions, and supplier selection process.
+    Assistance with analyzing challenges and preparing plans for improving outsourced payroll functions.
+    Consultant: Henrik Schøtt Kjærgaard, Partner, contact details provided.
+    Additional focus on improving other HR processes, such as requisition process and HR software solutions.
+    Offer of People Tech & Analytics services for a data-driven approach to HR.
+    Contact information for Henrik Schøtt Kjærgaard, Partner, provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Executive Search & Recruitment.
+    Specialization in identifying, assessing, and hiring qualified candidates for executive, management, and specialist positions.
+    Emphasis on finding candidates with the right skills, experience, vision, passion, and management style.
+    Extensive experience in executive search, with established relations with customers and candidates.
+    Service includes finding specialized employees or mid-level managers within Finance, People & Payroll, Legal, and Finance IT.
+    Detailed process phases provided: defining needs, creating job profile, search process, screening and selection, presenting candidates, and follow-up.
+    Offer of assistance in assessing final candidates through psychological tests and personality assessment.
+    Contact information for Gitte Hjortskov Larsen, Director, provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Interim Services.
+    Basico provides interim assistance for businesses needing temporary resources.
+    Interim consultants can help during peak loads, extraordinary situations, projects, or as project resources.
+    Basico has been offering interim services since 2004, with consultants chosen for their practical experience, professional skills, and personal characteristics.
+    Interim consultants can fill roles such as Controller, CFO, ERP project manager, Legal advisor, Payroll specialist, and more.
+    Benefits of Basico's interim assistance include experienced consultants, objective sparring, and a focus on daily operations and optimization.
+    The interim solution is divided into three phases: delivering 'as-is', identifying and realizing optimization potential, and documentation for handover.
+    Contact information for Morten Bille, Senior Partner, provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Recruitment.
+    Basico helps identify, evaluate, and hire the best candidates for executive, management, and specialist positions in areas such as Finance, Finance IT, Legal, and People & Payroll.
+    Executive Search: Basico assists in finding executives like CFOs, CHROs, or CLOs through a dedicated and confidential process utilizing their market knowledge and extensive network.
+    Recruitment of Specialists and Managers: Basico specializes in recruiting specialists and managers in various fields, offering precision, insight, and specific results.
+    Contact information for Gitte Hjortskov Larsen, Director, provided for more details.
+    Service offered: Interim Services.
+    Basico provides interim assistance for businesses needing temporary help with specific tasks.
+    Service offered: Digitalisation.
+    Basico offers consultancy services for digitalization to help support functions meet business needs effectively.
+    Contact information for inquiries provided.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Digitalisation.
+    Basico emphasizes the importance of digitalization for support functions to meet business needs effectively.
+    Digitalisation saves time by automating repetitive manual processes, allowing employees to focus on more value-creating tasks.
+    Basico acts as the "missing link" between the support function and IT, ensuring that digital solutions support work effectively.
+    Services include ERP replacements, process automations, BI, project management, and digitalization of month-end closing processes.
+    Focus on making support functions' work easier and freeing up valuable time.
+    Basico offers consultation to assess digitalization needs and provide tailored solutions.
+    Subscription to the newsletter "Insights by Basico" offers professional inspiration directly into the inbox.
+    Service offered: Interim Services.
+    Basico provides interim assistance for businesses needing temporary help with specific tasks.
+    Service offered: Recruitment.
+    Basico helps identify, evaluate, and hire the best qualified candidates for key positions in areas of expertise such as Finance, Finance IT, Legal, and People & Payroll.
+    Service offered: Consultancy.
+    Basico offers value-creating consultancy to support functions for strong business growth.
+    Contact information provided for inquiries.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Service offered: Consultancy.
+    Basico focuses on offering value-creating consultancy to support functions for strong business growth.
+    Consultancy based on the specific needs of the business, ensuring visible and useful results.
+    Services include consultancy about financial management, Finance's IT solutions, legal processes, CFO Roadmap, ERP projects, and strategies.
+    Consultants have corporate experience from Denmark and abroad, specializing in making support functions successful.
+    Solutions provided are practical and applicable in both presentations and daily work.
+    Basico emphasizes dialogue and collaboration, ensuring thorough understanding of the organization's needs.
+    "Beyond Business Support" promises consultancy as part of the package, aimed at creating value for the business.
+    Subscription to the newsletter "Insights by Basico" offers professional inspiration directly into the inbox.
+    Service offered: Interim Services.
+    Basico provides interim assistance for businesses needing temporary help with specific tasks.
+    Service offered: Recruitment.
+    Basico helps identify, evaluate, and hire the best qualified candidates for key positions in areas of expertise such as Finance, Finance IT, Legal, and People & Payroll.
+    Service offered: Digitalisation.
+    Digitalisation is crucial for support functions to meet business needs effectively and maximize value.
+    Contact information provided for inquiries.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Title: Basico Webinar On Demand.
+    Webinar topic: Workday Adaptive Planning.
+    The webinar provides insights into Aller Media's implementation of Workday Adaptive Planning.
+    Financial Forecasting Adaptive Planning integrates budgeting, forecasting, and payroll processes.
+    Testimonial from Fie Palle, Head of Business Controlling at Aller Media, about their experience with Workday Adaptive Planning.
+    Overview of Aller Media's transition from Excel to a cloud-based FP&A platform.
+    Discussion of features and benefits of Workday Adaptive Planning.
+    Introduction to the webinar by Morten Boldsen, Partner in Finance IT Services, and demonstration by Sylvester Hesseldal, Senior Consultant in Finance IT Services.
+    Workday Adaptive Planning is praised for its flexibility, adaptability to market conditions and business strategies, and error reduction.
+    The system is easily adopted by users at all levels within the organization.
+    Practical information about accessing the webinar.
+    Target audience: Finance or IT professionals considering transitioning from their current system, or those curious about Workday Adaptive Planning.
+    Contact information provided for inquiries.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Title: Basico-anette-riber-mads-bjoerkman.
+    About Basico: Basico is a consulting firm dedicated to strengthening support functions within companies.
+    Vision: Making support functions successful.
+    Services offered: Consultancy, digitalization, interim solutions, and recruitment in CFO Services, Legal Services, Finance IT Services, and People & Payroll Services.
+    Highlights of what Basico can help with, including financial roadmaps, ESG reporting, interim solutions, enhancing the intersection between Finance and IT, digitalizing core finance processes, positioning legal departments as commercial partners, and providing support for real estate projects and recruitment.
+    Testimonial from Thomas Dyhrberg Nielsen, CFO of Danica Pension, emphasizing Basico's pragmatic approach and focus on tangible outcomes.
+    Approach: Basico aims to make clients successful by bringing solid expert knowledge and involving clients in the process.
+    Collaboration: Basico believes in collaborating closely with clients to ensure solutions are practical and effective.
+    Invitation to read more about Basico's history and case studies.
+    Contact information provided for inquiries.
+    Copyright notice: ©2024 Basico, All rights reserved.
+	
+	Basico's Anette Riber and Mads Bjørkman share the company's mission, emphasizing the importance of support functions beyond mere support, aiming to inspire change and development.
+    With over 20 years of practical experience in major Danish and international companies, Basico offers tailored consultancy, digitalization, interim solutions, and recruitment services in CFO, Legal, Finance IT, and People & Payroll services.
+    They prioritize tangible outcomes over lengthy PowerPoint presentations, focusing on facilitating discussions about future ambitions based on everyday work experiences, as highlighted by Thomas Dyhrberg Nielsen, CFO of Danica Pension.
+    Basico values collaboration, aiming to make clients successful by involving them in the process, ensuring solutions are practical and effective for their specific challenges.
+    Interested parties can delve into Basico's history and explore case studies to understand how their methods and consultancy work in practice.
+    Contact information is provided for further inquiries or to learn more about Basico's services.
+	
+	Basico was founded in 1993 by Nicolai Kühl and Jacob Poulsen, who initially met through chance. Over the years, they built the foundation of Basico, starting with business-minded outsourcing of Finance within the framework of Arthur Andersen, which grew rapidly to become the largest department when Arthur Andersen merged with Deloitte in 2002.
+    Recognizing the need for an independent supplier of CFO Services, Nicolai and Jacob established Basico in 2003 with a focus on making support functions successful. They laid out fundamental principles, including prioritizing the CFO's area of responsibility, employing skilled consultants with practical experience, collaborating closely with customers, and upholding values of professionalism, responsibility, and commitment.
+    Today, Basico continues to focus on supporting support functions and the CFO, expanding its services to include CFO Services, Finance IT Services, Legal Services, and People & Payroll Services. With a team of over 200 consultants, Basico has solidified its position in the market and continues to grow, supported by a dedicated support function.
+    Basico's values of professionalism, responsibility, and commitment guide their actions, ensuring they deliver high-quality service and support to their customers. These values translate into specific actions, such as sharing business experience, taking ownership of challenges, delivering on commitments, involving customers in solutions, and fostering a supportive and empowering work environment.
+    Basico offers career opportunities for motivated individuals who thrive on challenges and want to work with renowned colleagues in a consultancy firm. Their career path allows individuals to influence their trajectory and put their experience into perspective, emphasizing personal and professional growth.
+	
+	Alexander Buono Nielsen - Manager in Legal Services
+    Amalie Sofie Clausen - Talent & Business Manager in People & Culture
+    Amanda Bruun Jensen - Trainee in Finance
+    Anders Olesen - Senior Partner in CFO Services
+    Andrea Kop - Marketing & Sales Consultant in Marketing & Sales Support
+    Andreas Helverskov Pedersen - Consultant in Legal Services
+    Andreas Marinos - Consultant in CFO Services
+    Anette Riber - Senior Administrative & Language Specialist in Marketing & Sales Support
+    Anna Langelund - Junior Office Coordinator in People & Culture
+    Anna Lerkenfeldt Frost - Junior Research Consultant in People & Payroll Services
+    Anne Cathrine Hoegh Toft - Manager in CFO Services
+    Bjarke Reffstrup - Director in People & Payroll Services
+    Camilla Bang Kristensen - Senior Manager in People & Payroll Services
+    Caroline Mathilde Nyrop-Larsen - Talent & Business Consultant in People & Culture
+    Caroline Risager Krzton - Talent & Development Manager in People & Culture
+    Casper Jæpelt Petersen - Manager in Finance IT Services
+    Casper Oxlund-Mariegaard - Senior Partner in CFO Services
+    Cathrine Birkebæk - Junior Office Coordinator in People & Culture
+    Cathrine Seibæk - Manager in CFO Services
+    Charlie Khan - Manager in CFO Services
+    Christian Koch Færge - Consultant in CFO Services
+    Christian Steen Jensen - Consultant in CFO Services
+    Christoffer Ingolff Lindbo - Senior Consultant in Finance IT Services
+    Dalia Margolinsky - Consultant in CFO Services
+    Daniel Trabjerg - Senior Consultant in Finance IT Services
+    Dorthe Withen Philipsen - Accounting Manager in Finance
+    Emil Tommerup - Manager in Finance IT Services
+    Emil Vels Bruhn - Senior Consultant in CFO Services
+    Emilie Holm - Manager in Legal Services
+    Faraz Sheikh - Manager in CFO Services
+    Gita Rønn Schmidt - Director in People & Payroll Services
+    Gitte Hjortskov Larsen - Director in People & Payroll Services
+    Hanne Sund - Senior Consultant in CFO Services
+    Heidi Amdi Voigt - Senior Graphic Designer in Marketing & Sales Support
+    Heidi Bruun - Senior Consultant in People & Payroll Services
+    Heidi Kofod Andersen - Senior Consultant in People & Payroll Services
+    Heidi Thielsen - Senior Recruitment Manager in People & Payroll Services
+    Helena Kristensen - Junior Consultant in CFO Services
+    Helle Jessing - Senior Administrative & Language Specialist in Marketing & Sales Support
+    Henrik Dahlgaard - Senior Partner in CFO Services
+    Henrik Koefoed Søgaard - Senior Manager in CFO Services
+    Henrik Schøtt Kjærgaard - Partner in People & Payroll Services
+    Ida Soll Zar - Talent & Business Manager in People & Culture
+    Jacob Poulsen - Managing Partner
+    Jacob Schaltz - Senior Consultant in Finance IT Services
+    Jasmina Larsen - Senior Consultant in People & Payroll Services
+    Jens Christian Andersen - Senior Consultant in CFO Services
+    Jeppe Wennervald Normann - Consultant in CFO Services
+    Joan Christiansen - Manager in CFO Services
+    Jonas Rytter Ottosen - Consultant in CFO Services
+    Josefine Holm Weitemeyer - Junior Consultant in People & Culture
+    Josefine Rechenback Jensen - Finance Consultant in Finance
+    Josefine Rostholm Toborg - Junior Talent & Business Consultant in People & Culture
+    Julie Berger-Schøn - Senior Communication Consultant in Marketing & Sales Support
+    Karoline Krogh Madsen - Junior Consultant in Marketing & Sales Support
+    Karoline Westergaard Nielsen - Senior Talent & Development Consultant in People & Culture
+    Kasper Bank Boldsen - Junior Consultant in People & Culture
+    Kristian Højbjerg Jørgensen - Junior Consultant in CFO Services
+    Kristian Schøning Frederiksen - Manager in Finance IT Services
+    Kristine Krüger - Senior Talent & Business Consultant in People & Culture
+    Lasse Aagaard Riisberg - Senior Research Consultant in People & Payroll Services
+    Lasse Rindom - Senior Manager - AI Lead in Finance IT Services
+    Line Rygård Christiansen - Employer Branding Consultant in People & Culture
+    Lisbeth Bau-Madsen - Senior Partner in Legal Services
+    Louise Sommer Hendriksen - Senior Content Creator in Marketing & Sales Support
+    Lykke Nymann Nederland - Senior Manager in People & Payroll Services
+    Lykke Pedersen - Director in People & Payroll Services
+    Mads Alsø Bjørkmann - Senior Manager in CFO Services
+    Mads Schmidt Rasmussen - Consultant in Finance IT Services
+    Mads Svejborg Holmvang - Junior Consultant in Finance IT Services
+    Maj Uggerhøj - Partner in CFO Services
+    Malene Schrøder - Senior Project Manager in Project Management Office
+    Manja Dahl Vittrup - Design Manager, Co-Head of Marketing in Marketing & Sales Support
+    Maria Heeschen-Ollendorff - Recruitment Manager in People & Payroll Services
+    Marie Nicoline Bjerregaard Sachse - Senior Talent & Business Consultant in People & Culture
+    Marie-Louise Scheel Gade - Senior Manager in People & Payroll Services
+    Martin Kimø Larsen - Junior Consultant in Finance IT Services
+    Martin Philip Beyer - Manager in CFO Services
+    Mathias Balsløw - Director in IT & Digitalisation
+    Mathias Lindhardt Jensen - Junior Consultant in Finance IT Services
+    Mathias Rankenberg Thomsen - Manager in Finance IT Services
+    Mathias Romme Larsen - Senior Consultant in Finance IT Services
+    Matias Maahr Nielsen - IT Consultant in IT & Digitalisation
+    Matias Præstegaard - Senior Talent & Development Consultant in People & Culture
+    Melissa Badstue Brøgger - Junior Consultant in CFO Services
+    Mette Slipsager - Director in CFO Services
+    Michael Ro Mejer - Senior Manager in Legal Services
+    Mie Marie Wissing - Senior Consultant in People & Payroll Services
+    Mikkel Harloff-Helleberg - Partner in CFO Services
+    Monica Meyer Jensen - Manager in CFO Services
+    Morten Virenfeldt Nielsen - Partner in CFO Services
+    Morten Bille - Senior Partner in CFO Services
+    Morten Boldsen - Partner in Finance IT Services
+    Morten Dyring - Senior Manager in Finance IT Services
+    Nanna Fenger - Consultant in Legal Services
+    Nichlas Paredes Sørensen - Senior Business Consultant in IT & Digitalisation
+    Nicholas Amdi Sørensen - Senior Consultant in Finance IT Services
+    Nicolai Kühl - Managing Partner
+    Nicolaj Due Petersen - Partner in Legal Services
+    Nikolaj Nissen - Senior Consultant in Finance IT Services
+    Nynne Skovgaard - Senior Consultant in People & Payroll Services
+    Olaf Bonnesen - Senior Partner in CFO Services
+    Oliver Beier - Junior Consultant in Finance IT Services
+    Oliver Egholm Gissel - Junior Consultant in People & Payroll Services
+    Oliver Koch - Senior Manager in Finance IT Services
+    Pernille Toubro - Senior Consultant in People & Payroll Services
+    Peter Christian Ibsen - Senior Consultant in CFO Services
+    Peter Holmboe - Senior Manager in Finance IT Services
+    Peter Munk Pedersen - Senior Consultant in CFO Services
+    Peter Wejse - Senior Manager in Finance IT Services
+    Philip Ejsing - Senior Manager in Finance IT Services
+    Rasmus Højbjerg Nielsen - Manager in Finance IT Services
+    Rasmus K. Jørgensen - Senior Manager in Finance IT Services
+    Rasmus Kjær - Junior Consultant in People & Payroll Services
+    Rasmus Mortensen - Junior Consultant in Finance IT Services
+    Rasmus Rosenlund Hansen - Senior Manager in Finance IT Services
+    René Lindholm - Partner in Finance IT Services
+    Rikke Balle Jensen - Junior Talent & Business Consultant in People & Culture
+    Rikke Kirkegaard - Junior Consultant in People & Culture
+    Rikke Marie Knudsen - Talent & Business Consultant in People & Culture
+    Rikke Schjødt Madsen - Senior Manager in Finance IT Services
+    Rune Bonnesen - Partner in CFO Services
+    Rune Weis - Partner in CFO Services
+    Sabrina Bach - Talent & Development Consultant in People & Culture
+    Sarah Povlsen - Senior Manager in Legal Services
+    Sarah-Sofie Andersen - Senior Consultant in People & Payroll Services
+    Sebastian Dinesen - Manager in Finance IT Services
+    Signe Leth Pedersen - Junior Consultant in People & Culture
+    Signe Toftegård - Senior Consultant in People & Payroll Services
+    Simon Bie - Junior Consultant in People & Payroll Services
+    Simon Brandt Nielsen - Senior Consultant in Finance IT Services
+    Simon Hamann - Senior Consultant in Finance IT Services
+    Simon Holmgren - Partner in Finance IT Services
+    Simon Wadum - Partner in Finance IT Services
+    Simone Fabricius - Senior Manager in Legal Services
+    Siri Hansen - Junior Consultant in People & Payroll Services
+    Sofie Helweg - Senior Consultant in People & Payroll Services
+    Sofie Kjærgaard - Junior Consultant in People & Payroll Services
+    Sofie Kragelund - Senior Consultant in People & Payroll Services
+    Sofie Skovgaard - Senior Consultant in People & Payroll Services
+    Stina Jacobsen - Talent & Business Consultant in People & Culture
+    Stine Kornvig - Manager in Finance IT Services
+    Stine Quorning - Senior Consultant in People & Payroll Services
+    Sune Markmann - Manager in Finance IT Services
+    Susanne Bagger - Senior Consultant in People & Payroll Services
+    Susanne Lassen - Senior Consultant in People & Payroll Services
+    Susanne Stisen - Senior Manager in People & Payroll Services
+    Søren Bach - Senior Manager in People & Payroll Services
+    Søren Kronborg - Manager in Finance IT Services
+    Tania Fogtmann - Senior Consultant in People & Payroll Services
+    Thea Holmegaard - Senior Manager in Finance IT Services
+    Thea Nørgaard - Senior Consultant in People & Payroll Services
+    Thomas Brunbjerg - Senior Consultant in Finance IT Services
+    Thomas Kjeldsen - Senior Consultant in Finance IT Services
+    Thomas Vestergaard - Senior Manager in Finance IT Services
+    Thorbjørn Bjørn - Partner in Finance IT Services
+    Tim Juhl - Senior Consultant in Finance IT Services
+    Tobias Wium - Partner in Finance IT Services
+    Tom Jørgensen - Senior Consultant in Finance IT Services
+    Troels Kortbek - Senior Manager in People & Payroll Services
+    Trine Frøkjær - Director in People & Payroll Services
+    Trine Randløv - Senior Consultant in People & Payroll Services
+    Victor Rosenlund - Junior Consultant in People & Payroll Services
+    Victoria Højgaard - Senior Consultant in People & Payroll Services
+    Viktoria Nikolajsen - Junior Consultant in People & Payroll Services
+    Vivi Weitling - Senior Consultant in People & Payroll Services
+    Youssef Daabous - Partner in Finance IT Services
+    Zakaria Zalaznik - Senior Manager in Finance IT Services
+	
+	Manager in Legal Services: Manages legal affairs, provides legal advice and guidance, handles contracts, agreements, and regulatory compliance.
+
+    Talent & Business Manager in People & Culture: Manages talent acquisition, employee relations, performance management, and organizational development initiatives.
+
+    Trainee in Finance: Receives on-the-job training in various financial activities such as accounting, budgeting, financial analysis, and reporting.
+
+    Senior Partner in CFO Services: Provides strategic financial leadership, oversees financial operations, offers financial advisory services, and guides decision-making processes.
+
+    Marketing & Sales Consultant in Marketing & Sales Support: Develops marketing strategies, creates promotional materials, conducts market research, and supports sales teams with lead generation and customer engagement.
+
+    Consultant in Legal Services: Provides legal advice, drafts legal documents, conducts legal research, and assists in litigation matters.
+
+    Consultant in CFO Services: Assists CFOs with financial planning, budgeting, forecasting, and analysis, and provides insights to improve financial performance.
+
+    Senior Administrative & Language Specialist in Marketing & Sales Support: Manages administrative tasks, supports marketing and sales teams with documentation, translation, and communication.
+
+    Junior Office Coordinator in People & Culture: Supports office operations, assists with employee onboarding, maintains employee records, and coordinates office events.
+
+    Junior Research Consultant in People & Payroll Services: Conducts research on HR and payroll-related topics, assists in data analysis, and supports HR projects.
+
+    Director in People & Payroll Services: Provides leadership in HR and payroll functions, develops HR policies and procedures, and oversees payroll processing.
+
+    Manager in Finance IT Services: Manages IT projects related to finance systems, oversees implementation and maintenance of financial software, and provides technical support to finance teams.
+
+    Junior Talent & Business Consultant in People & Culture: Assists in talent management initiatives, conducts employee surveys, and supports HR programs aimed at employee development and engagement.
+
+    Senior Recruitment Manager in People & Payroll Services: Manages recruitment processes, develops recruitment strategies, and leads a team of recruiters to attract top talent.
+
+    Employer Branding Consultant in People & Culture: Develops employer branding strategies, enhances the company's reputation as an employer, and attracts and retains top talent.
+
+    Design Manager, Co-Head of Marketing in Marketing & Sales Support: Manages design projects, creates visual assets for marketing campaigns, and oversees the design team's activities.
+
+    Senior Content Creator in Marketing & Sales Support: Creates compelling content for marketing materials, websites, social media, and other communication channels to engage and inform target audiences.
+
+    Senior Project Manager in Project Management Office: Manages projects from initiation to completion, coordinates project teams, and ensures projects are delivered on time and within budget.
+
+    IT Consultant in IT & Digitalisation: Provides IT consulting services, assesses client's IT needs, designs and implements IT solutions, and provides technical support and training.
+
+    Senior Business Consultant in IT & Digitalisation: Analyzes business processes, identifies areas for improvement, and implements technology solutions to enhance efficiency and productivity.
+
+    Senior Manager - AI Lead in Finance IT Services: Leads AI initiatives in finance, develops AI strategies, identifies AI opportunities, and oversees the implementation of AI solutions.
+
+    Partner in Finance IT Services: Provides strategic direction for finance IT services, develops client relationships, and leads business development efforts in the finance IT sector.
+
+    Partner in Legal Services: Provides legal expertise and strategic guidance to clients, manages client relationships, and leads legal teams in delivering high-quality legal services.
+
+    Senior Consultant in Finance IT Services: Provides technical expertise in finance IT systems, implements financial software solutions, and supports clients in optimizing their finance IT infrastructure.
+
+    Senior Consultant in People & Payroll Services: Provides HR and payroll consulting services, assists clients in HR compliance, payroll processing, and HRIS implementation.
+
+    Talent & Development Consultant in People & Culture: Designs and implements talent development programs, conducts training needs assessments, and supports employee career development.
+
+    Junior Consultant in People & Culture: Assists in various HR functions such as recruitment, training, performance management, and employee relations.
+
+    Junior Consultant in People & Payroll Services: Assists in payroll processing, benefits administration, HR compliance, and other HR-related tasks.
+
+    Junior Consultant in Finance IT Services: Assists in IT projects related to finance systems, provides technical support, and assists in software implementation and maintenance.
+
+    Finance Consultant in Finance: Provides financial analysis, reporting, and decision support to finance teams, assists in budgeting and forecasting, and evaluates financial performance.
+	
+	Basico offers CFO, Finance IT, Legal, and People & Payroll services, along with inspiration through their blog.
+	They provide contact information for inquiries or career opportunities: info@basico.dk or +45 702 703 71.
+	
+	Basico offers challenging career opportunities for consultants who seek to work in a dynamic environment with well-known colleagues, providing tailored development programs and continuous support.
+    Their team comprises professionals from various fields, including finance, IT, facility management, accounting, legal, and human capital, all dedicated to making their clients and colleagues successful.
+    Basico values professionalism, responsibility, and commitment, fostering a culture where individuals are empowered to influence their career paths while contributing to the success of the team.
+    Consultants at Basico enjoy interesting assignments at client sites, tailored development programs, and the opportunity to be part of a community that prioritizes professional growth and mutual support.
+    To learn more about career opportunities at Basico, interested individuals can contact Caroline Risager Krzton, Talent & Development Manager, at +45 22 61 98 27 or ckrzton@basico.dk.
+	
+	Basico offers associate consultant contracts for individuals seeking flexibility, independence, and freedom in their work life, allowing them to design their own schedules and workload.
+    Associate consultants collaborate with Basico as independent subcontractors, gaining the opportunity to work on various projects for diverse clients while strengthening their professional network.
+    The project-based nature of the work provides associates with a sense of variety, development, and freedom, allowing them to deposit knowledge gained from different assignments into their skill bank for future projects.
+    Collaboration with Basico as an associate offers the chance to work with a diverse range of interesting clients across Denmark, with the flexibility to select assignments that align with personal interests and schedules.
+    Basico ensures that associate consultants have dedicated support from a partner as well as backup from a professional consultancy firm, fostering a collaborative environment for success.
+    Individuals interested in collaborating with Basico as associates can contact Marie Nicoline Bjerregaard Sachse, Senior Talent & Business Consultant, at +45 27 11 60 41 or msachse@basico.dk to explore potential opportunities.
+	
+	Basico assists individuals seeking new career opportunities in fields such as Finance, Legal, IT, or Human Resources by connecting them with vacancies at major Danish and international companies.
+    Through dialogue with Basico, candidates gain in-depth knowledge about relevant vacancies, tasks, and business cultures, as well as access to objective career sparring to discuss their wishes and demands freely.
+    Basico ensures a professional and smooth recruitment process for candidates, respecting their time and energy even if initial discussions do not result in immediate placement.
+    Candidates interested in learning more about career opportunities can upload their CV or contact Gitte Hjortskov Larsen, Director, at +45 25 10 22 17 or ghlarsen@basico.dk for further information.
+	
+	
+	
+	

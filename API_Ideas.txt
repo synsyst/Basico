@@ -1,0 +1,29 @@
+https://dawadocs.dataforsyningen.dk/dok/guide/datavask
+fix my address
+
+perhaps the datavask can provide location data or atleast data for the weather api
+
+convert address to geocode lon and lat coordinates
+https://maps.googleapis.com/maps/api/geocode/outputFormat
+https://developers.google.com/maps/documentation/geocoding/requests-geocoding
+
+?parameters
+
+
+get ip from visitor:
+https://api.aruljohn.com/ip
+
+use that below:
+
+http://ip-api.com/json/80.208.65.34
+ip to country
+perhaps this can give parameters for the weather api below:
+
+use lat and lon in weather app:
+
+http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=xml
+weather
+
+55.675799,12.571673 (rådhuspladsen)
+
+remember to map indexes to something useful for visitor
