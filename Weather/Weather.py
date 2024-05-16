@@ -67,9 +67,13 @@ latitude, longitude = get_lat_lon(ip_address)
 weather_data, init_datetime = get_weather_data(latitude, longitude)
 time_difference_hours = calculate_time_difference(init_datetime)
 Weather_Data_Final = get_matching_weather_data(weather_data, time_difference_hours)
-#CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final['timepoint'])
 
-st.write(f"debugging: {latitude}, {longitude}, {init_datetime}, {time_difference_hours}")
+if Weather_Data_Final==None:
+    st.write("No matching time was found, this is most likely a bug!")
+else:
+    CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final['timepoint'])
+
+st.write(f"debugging: {latitude}, {longitude}, {init_datetime}, {time_difference_hours}, {CurrentTimeForWeather}")
 
 st.title("Weather application")
 
