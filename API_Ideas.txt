@@ -3,9 +3,6 @@ fix my address
 
 perhaps the datavask can provide location data or atleast data for the weather api
 
-convert address to geocode lon and lat coordinates
-https://maps.googleapis.com/maps/api/geocode/outputFormat
-https://developers.google.com/maps/documentation/geocoding/requests-geocoding
 
 ?parameters
 
@@ -27,3 +24,8 @@ weather
 55.675799,12.571673 (rådhuspladsen)
 
 remember to map indexes to something useful for visitor
+
+timepoint = hours after init datetime,
+"init" : "2024051606", timepoint =3 = 2024-05-16 09:00
+
+we need a function with now()-init to get diff and select the timepoint relevant to now.

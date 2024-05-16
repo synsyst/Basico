@@ -28,7 +28,7 @@ def get_weather_data(lat, lon):
     response = requests.get(url)
     weather_data = response.json()
     init_time_str = weather_data["init"]
-    init_datetime = datetime.strptime(init_time_str, "%Y%m%d%H").replace(tzinfo=timezone.utc)
+    init_datetime = datetime.strptime(init_time_str, "%Y%m%d%H").replace(tzinfo=timezone.utc) #this may already be UTC format as default, it seems to get warped to 12.00 when it should stay 06.00 even when we force it to be tzaware
     st.write(f"current init_datetime aware is {init_datetime}")
     return weather_data, init_datetime
 
@@ -38,7 +38,7 @@ def calculate_time_difference(init_datetime):
     st.write(f"current timezone aware is {now}")
     time_difference = now - init_datetime
     time_difference_hours = time_difference.total_seconds() // 3600
-    
+    st.write(f"difference is {time_difference_hours}")
     return time_difference_hours
 
 def get_matching_weather_data(weather_data, time_difference_hours):
