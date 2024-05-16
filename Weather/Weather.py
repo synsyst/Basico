@@ -34,7 +34,8 @@ def get_weather_data(lat, lon):
 
 def calculate_time_difference(init_datetime):
     #now = datetime.now().replace(tzinfo=timezone.utc)
-    now = datetime.now()
+    now = datetime.now(timezone.utc)
+    st.write(f"current timezone aware is {now}")
     time_difference = now - init_datetime
     time_difference_hours = time_difference.total_seconds() // 3600
     
