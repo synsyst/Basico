@@ -29,7 +29,7 @@ def get_weather_data(lat, lon):
     weather_data = response.json()
     init_time_str = weather_data["init"]
     init_datetime = datetime.strptime(init_time_str, "%Y%m%d%H").replace(tzinfo=timezone.utc)
-    
+    st.write(f"current init_datetime aware is {init_datetime}")
     return weather_data, init_datetime
 
 def calculate_time_difference(init_datetime):
