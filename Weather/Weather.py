@@ -70,6 +70,7 @@ Weather_Data_Final = get_matching_weather_data(weather_data, time_difference_hou
 
 if Weather_Data_Final==None:
     st.write("No matching time was found, this is most likely a bug!")
+    CurrentTimeForWeather = "None"
 else:
     CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final['timepoint'])
 
