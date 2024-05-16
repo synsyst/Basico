@@ -2,6 +2,8 @@ import requests
 import streamlit as st
 from datetime import datetime, timezone, timedelta
 
+# description of weather api http://www.7timer.info/doc.php
+
 #### functions ####
 def get_ip():
     url = "https://api.aruljohn.com/ip"
@@ -31,7 +33,8 @@ def get_weather_data(lat, lon):
     return weather_data, init_datetime
 
 def calculate_time_difference(init_datetime):
-    now = datetime.now().replace(tzinfo=timezone.utc)
+    #now = datetime.now().replace(tzinfo=timezone.utc)
+    now = datetime.now()
     time_difference = now - init_datetime
     time_difference_hours = time_difference.total_seconds() // 3600
     
@@ -74,9 +77,13 @@ if Weather_Data_Final==None:
 else:
     CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final['timepoint'])
 
-st.write(f"debugging: {latitude}, {longitude}, {init_datetime}, {time_difference_hours}, {CurrentTimeForWeather}")
-
 st.title("Weather application")
-
 st.write(f"Your IP address is: {ip_address}")
 #st.write(f"The weather data is shown for roughly {CurrentTimeForWeather}")
+
+#debugging data
+st.write(f"debugging: {latitude}, {longitude}, {init_datetime}, {time_difference_hours}, {CurrentTimeForWeather}")
+
+
+
+
