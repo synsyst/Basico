@@ -67,9 +67,11 @@ latitude, longitude = get_lat_lon(ip_address)
 weather_data, init_datetime = get_weather_data(latitude, longitude)
 time_difference_hours = calculate_time_difference(init_datetime)
 Weather_Data_Final = get_matching_weather_data(weather_data, time_difference_hours)
-CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final['timepoint'])
+#CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final['timepoint'])
+
+st.write(f"debugging: {latitude}, {longitude}, {init_datetime}, {time_difference_hours}")
 
 st.title("Weather application")
 
 st.write(f"Your IP address is: {ip_address}")
-st.write(f"The weather data is shown for roughly {CurrentTimeForWeather}")
+#st.write(f"The weather data is shown for roughly {CurrentTimeForWeather}")
