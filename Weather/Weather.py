@@ -81,7 +81,7 @@ else:
 st.title("Weather application")
 st.write(f"Your IP address is: {ip_address}")
 st.write(f"The weather data is shown for roughly {CurrentTimeForWeather} in UTC")
-st.write(f"*Weather data\nCloudcover = {Weather_Data_Final[1]}\nLifted Index = {Weather_Data_Final[2]}\nPrec Type = {Weather_Data_Final[3]}\nPrec Amount = {Weather_Data_Final[4]}\nTemp2m = {Weather_Data_Final[5]}\nrh2m = {Weather_Data_Final[6]}\nwind direction = {Weather_Data_Final[7]}\nwind speed = {Weather_Data_Final[8]}\nGeneral Weather Conditions are {Weather_Data_Final[9]}\n")
+st.write(f"*Weather data<br>Cloudcover = {Weather_Data_Final[1]}<br>Lifted Index = {Weather_Data_Final[2]}<br>Prec Type = {Weather_Data_Final[3]}<br>Prec Amount = {Weather_Data_Final[4]}<br>Temp2m = {Weather_Data_Final[5]}<br>rh2m = {Weather_Data_Final[6]}<br>wind direction = {Weather_Data_Final[7]}<br>wind speed = {Weather_Data_Final[8]}<br>General Weather Conditions are {Weather_Data_Final[9]}")
 
 #debugging data
 st.write(f"debugging: {latitude}, {longitude}, {init_datetime}, {time_difference_hours}, {CurrentTimeForWeather}")
