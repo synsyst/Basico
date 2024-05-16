@@ -42,7 +42,7 @@ def calculate_time_difference(init_datetime):
     return time_difference_hours
 
 def get_matching_weather_data(weather_data, time_difference_hours):
-    timepoint_mod_3 = time_difference_hours-(time_difference_hours % 3)
+    timepoint_mod_3 = time_difference_hours-(time_difference_hours % 3) # give better name to variable after updating formula
     for data_point in weather_data['dataseries']:
         if data_point['timepoint'] == timepoint_mod_3:
             # Extract relevant data into a tuple
@@ -76,7 +76,7 @@ if Weather_Data_Final==None:
     st.write("No matching time was found, this is most likely a bug!")
     CurrentTimeForWeather = "None"
 else:
-    CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final['timepoint'])
+    CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final[0])
 
 st.title("Weather application")
 st.write(f"Your IP address is: {ip_address}")
