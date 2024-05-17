@@ -1,6 +1,7 @@
 import requests
 import streamlit as st
 from datetime import datetime, timezone, timedelta
+import pytz
 
 # description of weather api http://www.7timer.info/doc.php
 
@@ -62,6 +63,12 @@ def get_matching_weather_data(weather_data, time_difference_hours):
 def calculate_weather_time(init_datetime, timepoint):
     weather_time_now = init_datetime + timedelta(hours=timepoint)
     return weather_time_now
+
+#convert utc time to Danish time
+def convert_to_copenhagen_time(utc_time):
+    copenhagen_tz = pytz.timezone('Europe/Copenhagen')
+    utc_time = pytz.utc.localize(utc_time)
+    return utc_time.astimezone(copenhagen_tz)
 
 #### weather mappings ####
 cloud_cover_mapping = {
@@ -141,9 +148,11 @@ if Weather_Data_Final==None:
 else:
     CurrentTimeForWeather = calculate_weather_time(init_datetime, Weather_Data_Final[0])
 
+CopenhagenWeatherTime = convert_to_copenhagen_time(CurrentTimeForWeather)
+
 st.title("Weather application")
 st.write(f"Your IP address is: {ip_address}, or would be if Streamlit servers didn't overwrite visitor IP, so this IP is instead the streamlit server :), we map the weather function to location of Basico offices instead")
-st.write(f"The weather data is shown for roughly {CurrentTimeForWeather} in UTC")
+st.write(f"Time of forecast is {CopenhagenWeatherTime}")
 st.write(f"Weather data<br>Cloudcover = {cloud_cover_mapping.get(Weather_Data_Final[1])}<br>Precipitation Type = {Weather_Data_Final[3]}<br>Precipitation Amount = {precipitation_amount_mapping.get(Weather_Data_Final[4])}<br>Temperature = {Weather_Data_Final[5]} Celcius<br>Relative Humidity = {Weather_Data_Final[6]}<br>Wind Direction = {Weather_Data_Final[7]}<br>Wind Speed = {wind_speed_mapping.get(Weather_Data_Final[8])}<br>General Weather Conditions = {weather_type_mapping.get(Weather_Data_Final[9])}", unsafe_allow_html=True)
 
 #debugging data
