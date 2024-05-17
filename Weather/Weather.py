@@ -144,7 +144,7 @@ else:
 st.title("Weather application")
 st.write(f"Your IP address is: {ip_address}, or would be if Streamlit servers didn't overwrite visitor IP, so this IP is instead the streamlit server :), we map the weather function to location of Basico offices instead")
 st.write(f"The weather data is shown for roughly {CurrentTimeForWeather} in UTC")
-st.write(f"Weather data<br>Cloudcover = {cloud_cover_mapping.get(Weather_Data_Final[1])}<br>Precipitation Type = {Weather_Data_Final[3]}<br>Precipitation Amount = {precipitation_amount_mapping.get(Weather_Data_Final[4])}<br>Temperature = {Weather_Data_Final[5]} Celcius<br>Relative Humidity = {Weather_Data_Final[6]} %<br>Wind Direction = {Weather_Data_Final[7]}<br>Wind Speed = {wind_speed_mapping.get(Weather_Data_Final[8])}<br>General Weather Conditions = {weather_type_mapping.get(Weather_Data_Final[9])}", unsafe_allow_html=True)
+st.write(f"Weather data<br>Cloudcover = {cloud_cover_mapping.get(Weather_Data_Final[1])}<br>Precipitation Type = {Weather_Data_Final[3]}<br>Precipitation Amount = {precipitation_amount_mapping.get(Weather_Data_Final[4])}<br>Temperature = {Weather_Data_Final[5]} Celcius<br>Relative Humidity = {Weather_Data_Final[6]}<br>Wind Direction = {Weather_Data_Final[7]}<br>Wind Speed = {wind_speed_mapping.get(Weather_Data_Final[8])}<br>General Weather Conditions = {weather_type_mapping.get(Weather_Data_Final[9])}", unsafe_allow_html=True)
 
 #debugging data
 #st.write(f"debugging: {latitude}, {longitude}, {init_datetime}, {time_difference_hours}, {CurrentTimeForWeather}")
