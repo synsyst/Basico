@@ -67,7 +67,6 @@ def calculate_weather_time(init_datetime, timepoint):
 #convert utc time to Danish time
 def convert_to_copenhagen_time(utc_time):
     copenhagen_tz = pytz.timezone('Europe/Copenhagen')
-    utc_time = pytz.utc.localize(utc_time)
     return utc_time.astimezone(copenhagen_tz)
 
 #### weather mappings ####
