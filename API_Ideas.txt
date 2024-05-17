@@ -20,6 +20,7 @@ use lat and lon in weather app:
 
 http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=xml
 weather
+http://www.7timer.info/doc.php
 
 55.675799,12.571673 (rådhuspladsen)
 
